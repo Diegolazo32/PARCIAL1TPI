@@ -1,0 +1,44 @@
+.compra{
+    flex-direction: column;
+    float: left;
+    border-right: solid black 1px;
+    width: 50%;
+}
+
+.paga{
+    width: 40%;
+    height: 100%;
+    flex-direction: column;
+    float: right;
+}
+
+.pay{
+    width: 40%;
+    height: 40%;
+    padding: 20px,20px,20px,20px;
+}
+.addC{
+    width: 40%;
+    height: 50%;
+    padding: 20px,20px,20px,20px;
+}
+.addP{
+    width: 40%;
+    height: 50%;
+    padding: 20px,20px,20px,20px;
+}
+.addZ{
+    width: 40%;
+    height: 50%;
+    padding: 20px,20px,20px,20px;
+}
+
+
+.tabla{
+    width: 50%;
+    height: 50%;
+}
+
+.realizarPago{
+    margin-top: 10%;
+}
